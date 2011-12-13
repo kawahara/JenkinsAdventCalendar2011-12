@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-============================================================
-Jekinsのモニタリング - Jenkins Advent Calendar 2011 - Day 12
-============================================================
+=============================================================
+Jenkinsのモニタリング - Jenkins Advent Calendar 2011 - Day 12
+=============================================================
 
 :Author: Shogo Kawahara <kawahara@bucyou.net> Twitter: `@ooharabucyou`_
 :Date: 2011-12-12
@@ -15,10 +15,10 @@ Jekinsのモニタリング - Jenkins Advent Calendar 2011 - Day 12
 
 この記事は `Jenkins Advent Calendar 2011 <http://atnd.org/events/22048>`_ の記事です。
 
-`<-11日目`_ **12日目(今ここ)** 13日目->
+`<-11日目`_ **12日目(今ここ)** `13日目->`_
 
 .. _`<-11日目`: http://d.hatena.ne.jp/wadatka/20111211/1323596364
-.. _`13日目->`: http://example.com
+.. _`13日目->`: http://d.hatena.ne.jp/cointoss1973/20111213/1323702126
 
 こんにちは。普段 CI Tool としては、Jenkins より `Sismo`_ を利用している ooharabucyou です。
 
